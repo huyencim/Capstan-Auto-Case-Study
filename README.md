@@ -1,9 +1,10 @@
-🚗 Capstan Autos Case Study
-📌 Overview
+****🚗 Capstan Autos Case Study
+****
+**📌 Overview**
 
 This repository contains the solution to the Capstan Autos case study, focusing on financial analysis, short-term planning, and strategic financing at an East Coast automobile dealership.
 
-🎯 Objectives
+**🎯 Objectives**
 
 🔍 Assess Capstan Autos’s financial condition
 
@@ -15,7 +16,7 @@ This repository contains the solution to the Capstan Autos case study, focusing 
 
 💡 Provide actionable financial recommendations
 
-🧩 Case Summary
+**🧩 Case Summary**
 
 Capstan Autos imported and sold vehicles quarterly, paying the manufacturer at quarter-end.
 
@@ -23,7 +24,7 @@ Introduced a six-month free credit policy, boosting sales but tying up cash in a
 
 Debt increased to ~$9.7M, making the bank hesitant to extend further credit.
 
-🛠 Methodology
+**🛠 Methodology**
 
 📊 Financial ratio analysis: debt ratio, equity ratio, current ratio
 
@@ -33,7 +34,7 @@ Debt increased to ~$9.7M, making the bank hesitant to extend further credit.
 
 🏦 Credit assessment: justification of bank decisions
 
-📌 Key Insights
+**📌 Key Insights**
 
 ⚠ Debt rose due to extended customer credit
 
@@ -43,7 +44,7 @@ Debt increased to ~$9.7M, making the bank hesitant to extend further credit.
 
 💰 Profits mask cash flow shortages
 
-📂 Repository Contents
+**📂 Repository Contents**
 
 📊 Financial worksheets (.xlsx)
 
@@ -51,7 +52,7 @@ Debt increased to ~$9.7M, making the bank hesitant to extend further credit.
 
 📍 Recommendations
 
-🚀 Usage
+**🚀 Usage**
 
 Open the solution file to view analysis
 
@@ -59,7 +60,7 @@ Review financial worksheets
 
 Reference conclusions and recommendations for submission or discussion
 
-✨ Notes
+**✨ Notes**
 
 Results are based on case-provided data
 
